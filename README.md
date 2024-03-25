@@ -31,7 +31,7 @@ Command:
 clingo ooasp.lp test-suite/maximum-cardinality/knowledge-base.lp test-suite/maximum-cardinality/partial-instantiation.lp
 ```
 
-### 3. Every Attribute Value must belong to an instance**
+### 3. Every Attribute Value must belong to an instance
 
 This constraint ensures that the attribute values are associated with the instantiated objects.
 
