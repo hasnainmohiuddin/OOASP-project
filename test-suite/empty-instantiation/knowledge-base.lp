@@ -1,0 +1,1 @@
+ooasp_class("v1", "ClassA").
