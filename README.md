@@ -37,7 +37,7 @@ This constraint ensures that the attribute values are associated with the instan
 
 Command:
 ```
-clingo ooasp.lp test-suite/attr-value-to-ins/knowledge-base.lp test-suite/attr-value-to-ins/partial-instantiation.lp
+clingo ooasp.lp test-suite/attr-value-to-ins/config-model.lp test-suite/attr-value-to-ins/partial-instantiation.lp
 ```
 
 ### 4. Integer Value lower Bound
